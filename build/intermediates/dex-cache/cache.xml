@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pre-dex-items>
+
+    <item
+        dex="C:\Users\Zolii\Documents\taskmanager-android\app\build\intermediates\pre-dexed\debug\classes-8c5e67fe2955fd5a8914e178384af6c5ce32f012.jar"
+        jar="C:\Users\Zolii\Documents\taskmanager-android\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.2\classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="7ae2d38807a43b2f2185ff4089a92c790b579e54"/>
+    <item
+        dex="C:\Users\Zolii\Documents\taskmanager-android\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.2-734bf87004e2a1983cec8359eb20ac6856a57936.jar"
+        jar="C:\android-studio\sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.2\support-annotations-21.0.2.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="99373741f99a0556ee293c41e8faa1ca3ae8a4e6"/>
+    <item
+        dex="C:\Users\Zolii\Documents\taskmanager-android\app\build\intermediates\pre-dexed\debug\library-1.0.6-916a3828e5f2c5084a32f0e666aa92c099c43c36.jar"
+        jar="C:\Users\Zolii\.gradle\caches\modules-2\files-2.1\com.mcxiaoke.volley\library\1.0.6\b2e6988baeea1aed656995f973aaa2fc3feaf447\library-1.0.6.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="b2e6988baeea1aed656995f973aaa2fc3feaf447"/>
+    <item
+        dex="C:\Users\Zolii\Documents\taskmanager-android\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.2-ad6c25657a702d9bd89754f677c706b25ddf0074.jar"
+        jar="C:\Users\Zolii\Documents\taskmanager-android\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.2\libs\internal_impl-21.0.2.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="962e8b12569c56dbdcf8367eb4eac8bb129cd18f"/>
+    <item
+        dex="C:\Users\Zolii\Documents\taskmanager-android\app\build\intermediates\pre-dexed\debug\classes-478a3265063a37451307877a32536c724c833dcc.jar"
+        jar="C:\Users\Zolii\Documents\taskmanager-android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services\6.1.71\classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="0f6d5c1ef2e982c3b7858408e3df389cf5d202da"/>
+    <item
+        dex="C:\Users\Zolii\Documents\taskmanager-android\app\build\intermediates\pre-dexed\debug\classes-0b8aa3bb255b530fa9413711e684c8b0062f29f5.jar"
+        jar="C:\Users\Zolii\Documents\taskmanager-android\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.2\classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="d1bf02de1c56d942e7a9d093b8610ba1ef4128e3"/>
+    <item
+        dex="C:\Users\Zolii\Documents\taskmanager-android\app\build\intermediates\pre-dexed\debug\gson-2.3-12125490c0fd3c2c0458fd27b20b7dbb584b8c8c.jar"
+        jar="C:\Users\Zolii\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.3\5fc52c41ef0239d1093a1eb7c3697036183677ce\gson-2.3.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="5fc52c41ef0239d1093a1eb7c3697036183677ce"/>
+
+</pre-dex-items>
